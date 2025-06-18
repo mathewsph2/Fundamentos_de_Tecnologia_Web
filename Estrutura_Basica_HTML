@@ -1,0 +1,10 @@
+<!DOCTYPE html>  <!-- Declaração mínima e obrigatória, é a forma mais simples e moderna (HTML5). -->
+<html lang="pt-br"> <!-- Idioma: Português do Brasil -->
+	<head>
+		<meta charset="UTF-8">   <!-- Codificação: Unicode (suporta acentos, emojis, etc.) Garante compatibilidade global, já que o UTF-8 é universal.-->
+		<title>Aula1</title>
+	</head>
+	<body>
+		<p>Olá mundo!</p>
+	</body>
+</html>
